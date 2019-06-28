@@ -1,0 +1,12 @@
+Git Commands
+
+1.  git init
+2.  git clone
+3.  git add
+4.  git status
+5.  git commit -m'message'
+6.  git push
+7.  git rm
+8.  git branch [branch-name]
+9.  git log 
+10. git revert
